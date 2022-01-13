@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  x:Class="LCATPA.Splash">
+    <ContentPage.Content>
+        <Image x:Name="imgLogo" Aspect="AspectFit" Source="icon.png" Margin="5" HorizontalOptions="Center" VerticalOptions="Center"></Image>
+    </ContentPage.Content>
+</ContentPage>
